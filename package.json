@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nagabhushan771/CypressAutomation/issues"
   },
-  "homepage": "https://github.com/nagabhushan771/CypressAutomation#readme"
+  "homepage": "https://github.com/nagabhushan771/CypressAutomation#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
 }
